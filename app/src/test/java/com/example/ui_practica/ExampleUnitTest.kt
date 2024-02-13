@@ -1,4 +1,4 @@
-package com.example.practice_1
+package com.example.ui_practica
 
 import org.junit.Test
 

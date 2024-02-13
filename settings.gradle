@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "practice-1"
+rootProject.name = "ui-practica"
 include ':app'
